@@ -34,8 +34,8 @@
 # yazi = "alo ata bak"
 # print(yazi)
 
-# a = "Python "
-# b = "Programla "
-# c = "Dili"
-# print(a + b + c)
+a = "Python "
+b = "Programlama "
+c = "Dili"
+print(a,b,c)
 
